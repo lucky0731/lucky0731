@@ -1,4 +1,4 @@
-[![MasterHead]https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-max-1mb.gif]
+![MasterHead](https://thumbs.dreamstime.com/b/artificial-intelligence-illustration-vector-minimal-ai-banner-artificial-intelligence-illustration-vector-minimal-ai-computer-103987806.jpg)
 <h1 align="center">Hi 👋, I'm Lucky Agrawal</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
